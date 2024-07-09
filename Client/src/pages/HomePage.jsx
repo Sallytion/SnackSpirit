@@ -13,7 +13,7 @@ const HomePage = () => {
         <BentoGridDemo />
       </center>
       <div className="flex flex-col justify-center items-center">
-        <div className="text-white mt-16 text-6xl text-red-500">
+        <div className="text-white mt-16 text-6xl">
           <p>Reviews</p>
         </div>
         <Reviews />
